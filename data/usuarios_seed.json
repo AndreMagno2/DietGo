@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Andre Bazeth",
-      "email": "andrebazeth@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
